@@ -186,7 +186,7 @@ void  loop ( )
     Serial.println("");           // Blank line between entries
     irrecv.resume();              // Prepare for the next value
   }
-  else
+  /*else
   {
 	  Serial.println("We will attempt to switch on the AC...");
 	  irsend.sendRaw(onAC_FECB4121, 7, khz);
@@ -212,5 +212,5 @@ void  loop ( )
 	  irsend.sendRaw(onAC_46172D8C, 7, khz);
 	  irsend.sendRaw(onAC_FECB4123, 7, khz);
 	  delay(5000);
-  }
+  }*/
 }
