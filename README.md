@@ -9,8 +9,10 @@ My goal tonight, or over the next few days would be to attempt to decode and com
 
 I will be tabulating the combinations in the following manner:
 
-						Code One				Code Two
-					----------------		----------------
+`
+			Code One				Code Two
+			----------------		----------------
 Combination #1		{...,...,...,...}		{...,...,...,...}
 Combination #2		{...,...,...,...}		{...,...,...,...}
 Combination #3		{...,...,...,...}		{...,...,...,...}
+`
